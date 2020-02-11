@@ -3,4 +3,3 @@ def current_age_for_birth_year(x)
   age = current_age_for_birth_year(0)
 
   expect(age).to eq(2003)
-end
